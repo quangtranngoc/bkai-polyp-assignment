@@ -1,5 +1,7 @@
 # bkai-polyp-assignment
 
+Dataset is from [BKAI-IGH NeoPolyp](https://www.kaggle.com/competitions/bkai-igh-neopolyp/data)
+
 You can find the checkpoint file [here](https://drive.google.com/file/d/1s_azXYekjo3nLu3iF5cBP5GHgZTVQOzL/view?usp=sharing). For inference, the file need to be placed inside model folder in this repository.
 
 Code for cloning the repository to local workspace:
