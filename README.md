@@ -10,8 +10,12 @@ git clone
 
 Change current working directory to this repository:
 
-```cd bkai-polyp-assignment```
+```
+cd bkai-polyp-assignment
+```
 
 Make inference from your image:
 
-```python3 infer.py --image_path image.jpeg```
+```
+python3 infer.py --image_path image.jpeg
+```
