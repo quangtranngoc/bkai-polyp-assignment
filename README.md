@@ -4,7 +4,9 @@ You can find the checkpoint file here: link. For inference, the file need to be 
 
 Code for cloning the repository to local workspace:
 
-```git clone```
+```
+git clone
+```
 
 Change current working directory to this repository:
 
